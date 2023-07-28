@@ -1,37 +1,19 @@
-![header_image](./figures/header.png)
-# Pelatihan Teknis Analisis Seismograph dan Accelerograph Tahun 2022
-## *"Signal Data Processing on Accelerographic Data"*
+<!-- ![header_image](./figures/header.png) -->
+# Kajian Ground Motion Pendukung Pokja InaTEWS
 
-**Instruktur:**  
+**Oleh:**  
 Dr.rer.nat. Wiwit Suryanto, M.Si  
-
-**Dipersiapkan oleh:**
-Anang Sahroni, S.Si
-
 
 **Waktu:**
 
-Sabtu, 15 Juli 2022 | 07.45 – 17.15 WIB
+Jumat, 28 Juli 2023 | 10.30 – 11.45 WIB
 
 **Tempat:**
-Gedung Serbaguna Pusdiklat BMKG, Citeko, Bogor
+Hotel Santika Teras Kota, Banten
 
 **Agenda:**
-- 07.45 - 10.00 Some key issues about strong motion, pre-test and data preparation
-- 10.00 - 10.15 Break
-- 10.15 - 11.30 Obspy and basic accelerogram processing
-- 11.30 - 13.00 Lunch
-- 13.00 - 15.15 Accelerogram data processing and excercise
-- 15.15 - 15.30 Break
-- 15.30 - 17.00 Exercise, post-test and wrapping up
-
-## Luaran
-1. Peserta dapat mengolah data runtun waktu dan mengenal karakteristik data akselerogram
-2. Peserta mempunyai kemampuan untuk mekalkukan koreksi baseline data akselerogram
-
-## Peralatan untuk peserta
-1. Laptop ataupun *Personal Computer* (PC) yang terkoneksi dengan internet 
-2. Akun Google yang aktif.
+- 10.30 - 10.45 Signal Processing Ground Motion for Geophysics analysis
+- 10.45 - 11.45 Noise Analysis for Seismology and Exploration
 
 ## Data:
 1. [Rekaman Akselerogram CWB.TCU129 Gempa Chi-Chi 1999](./data)
@@ -72,7 +54,6 @@ Gedung Serbaguna Pusdiklat BMKG, Citeko, Bogor
 | 6. Melakukan korelasi silang |
 | 7. Menampilkan kurva dispersi |
 ||
-
 
 
 ## Referensi
