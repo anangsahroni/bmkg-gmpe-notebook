@@ -63,9 +63,20 @@ Gedung Serbaguna Pusdiklat BMKG, Citeko, Bogor
 | 6. Aplikasi Filter Kausal |
 | 7. Contoh implementasi Metode Iwan (1985) Opsi 1 |
 ||
+| **SESI 4: [Ambient Noise Tomography](https://colab.research.google.com/drive/1UZAEt9oTp0dGJqfxFqIuth_uBhgL_T9F?usp=sharing)** |
+| 1. Menyiapkan data seismik |
+| 2. Menyiapkan metadata stasiun |
+| 3. Menampilkan ketersediaan data |
+| 4. Menyiapkan *job* untuk korelasi silang |
+| 5. Membuat fungsi-fungsi *preprocessing* |
+| 6. Melakukan korelasi silang |
+| 7. Menampilkan kurva dispersi |
+||
+
 
 
 ## Referensi
+Bensen, GD & Ritzwoller, Michael & Barmin, MP & Levshin, Anatoli & Lin, Feifan & Moschetti, Morgan & Shapiro, Nikolai & Yang, Yingjie. (2007). Processing seismic ambient noise data to obtain reliable broad-band surface wave dispersion measurements. Geophysical Journal International. 169. 1239-1260. 10.1111/j.1365-246X.2007.03374.x. 
 Boore, D. M., 1999, Effect of Baseline Corrections on Response Spectra for Two Recordings of the 1999 Chi-Chi, Taiwan, Earthquake: U. S. Geological Survey Open-File Report 99-545, 37 pp., https://pubs.usgs.gov/of/1999/0545/.  
 Center for Engineering and Strong Motion Data (https://www.strongmotioncenter.org/)  
 Chao, WA., Wu, YM. & Zhao, L. An automatic scheme for baseline correction of strong-motion records in coseismic deformation determination. J Seismol 14, 495–504 (2010). https://doi.org/10.1007/s10950-009-9178-7    
